@@ -1,0 +1,22 @@
+[Tt]humbs.db
+.Trashes
+.DS_Store
+.DS_Store?
+__*
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Logs
+*.log
+npm-debug.log*
+
+.idea
+*.codekit
+.codekit*
+
+
+
